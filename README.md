@@ -9,7 +9,7 @@ This is a simple project to show how to provide various levels of Authentication
 - Clone the repository
 - Run `npm init` to initialize the project
 - Run `npm install` to install all the dependencies
-- Run `npm start` to start the application
+- Run `npm app.js` to start the application
 - Open `http://localhost:3000` in your browser
 - Register a new user at `http://localhost:3000/register`
 - Login with the registered user at `http://localhost:3000/login`
